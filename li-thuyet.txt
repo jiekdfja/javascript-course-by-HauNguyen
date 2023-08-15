@@ -1,0 +1,19 @@
+4. LÀM QUEN JS
+ 4.4 "use strict" mode
+  chế độ nghiêm ngặt từ ES5
+ 4.8 Biến
+  var (function scope)
+  const/let (block scope)
+  var/const/let variable_name = value
+ 4.9 Operators
+  Arithmetic operators
+  Unary operators
+  Binary operators
+  Ternary operators
+  Logical operators
+  Bitwise operators
+ 4.10 Data types
+ number, string, boolean, bigint, null, undefined, symbol, object
+ 4.11 function
+
+5. BOOLEAN

@@ -17,3 +17,34 @@
  4.11 function
 
 5. BOOLEAN
+ 5.2 Type 
+  Coercion
+  Ép kiểu tự động
+  Phép cộng có string thì tự ép kiểu sang string
+  Còn lại tự ép sang kiểu số
+
+  Conversion
+  Ép kiểu chỉ định
+  String, .toString, Number, parseInt, parseFloat, Blooean
+ 5.3 Truthy & Falsy
+  Falsy values: false, 0, -0, '', "", ``, null, NaN, undefined
+ 5.4 Logical operators
+  &&, ||, !
+ 5.5 Comparison operators
+  >, <, >=, <=, ==, ===, !==
+ 5.6 If ... else ...
+ 5.7 Switch ... case ...
+
+6. NUMBER
+ 6.2 Number object
+  Có các hàm với Number tìm max, min ..., làm tròn số, ...
+ 6.3 Math
+  Các làm toán học căn bậc, mũ, lấy phần nguyên, làm tròn
+ 6.4 Imprecise calculations
+ 6.7 Math random
+
+7. STRING
+
+8. OBJECT
+
+9. 

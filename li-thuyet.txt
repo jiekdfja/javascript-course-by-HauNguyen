@@ -46,5 +46,18 @@
 7. STRING
 
 8. OBJECT
+  object lưu giá trị dạng key - value
+  truy xuất object.key hoặc object[key]
+  xoá key: delete obj.key
 
+  biến obj, array, func lưu địa chỉ trong bộ nhớ chứ k phải giá trị
+  So sánh theo Logical là so sánh địa chỉ
+
+  obj destructuring
+  in operator kiểm tra key 
+  CLone obj: object.assign(), spread operator
+  deep clone : dùng thư viện thứ 3
+
+  object.keys
+  for ... in ...
 9. 

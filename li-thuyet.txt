@@ -60,4 +60,11 @@
 
   object.keys
   for ... in ...
-9. 
+
+9. ARRAY
+  Các hàm array hay dùng: foreach, map, filter, slice, reduce
+  Clone, destructuring
+  for of
+
+10. TEST
+  

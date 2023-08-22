@@ -1,0 +1,30 @@
+Buổi 1 - 2: Tổng quan khóa học, giới thiệu về HTML
+Giới thiệu mục tiêu, yêu cầu, nội dung khóa học
+Tìm hiểu cấu trúc cơ bản trong HTML, các loại thẻ văn bản, media…
+Hướng dẫn tạo bảng và form thông tin người dùng. 
+Buổi 3-4: Học về CSS - ngôn ngữ thiết kế giao diện cho trang web
+Tìm hiểu cú pháp CSS, selectors và Box Model để căn chỉnh CSS cho các thành phần trong HTML.  
+Căn chỉnh bố cục trang web bằng các thuộc tính CSS như display, positioning
+Buổi 5: Thiết kế trang web đơn giản
+Xây dựng 1 trang web đơn giản và học về Git, Github để lưu trữ code, xuất bản trang web hoàn toàn miễn phí
+Buổi 6-9: Tìm hiểu các kiến thức về JavaScript
+Các khái niệm cơ bản về biến, kiểu dữ liệu, toán tử, các phương pháp toán học trong JS. 
+Câu điều kiện và các phép so sánh biến, kiểu dữ liệu. 
+Học về hàm, scope, xử lý các bài toán cơ bản với array và vòng lặp.
+Học các kỹ thuật nâng cao về object và arrays
+Buổi 10-11: Tìm hiểu về HTML DOM, DOM Element Attributes, DOM event
+Khái niệm Document Object Model, DOM Tree và các tác động đến nội dung, giao diện trang web bằng JavaScript và DOM
+Xây dựng các tính năng như Click button trên giao diện trang web để thay đổi nội dung và bố cục
+Buổi 12-13: Tìm hiểu về JS ES6 
+Tìm hiểu các tính năng: classes, modules, promises, request API
+
+- Class: luôn tạo method constructor 
+- Inheritance: Tạo class với extends là kế thừa đc methods class cũ
+                super thay cho class cũ, gọi super trong constructor thay cho constructor của class cũ
+                getter và setter class methods
+                static định nghĩa method chỉ trong class đó
+- Modules: Giúp chia code ra nhiều file import - export
+    named export va export default
+Buổi 14-18:
+Hackathon hoàn thiện dự án cuối khóa
+Thuyết trình bảo vệ dự án cuối khóa

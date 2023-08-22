@@ -69,11 +69,14 @@
 10. TEST
   Jest framework
   
-  Scope: global, block, function
-  Dom
-  Es6:
 
 11.
 
 12. DATA STRUCTURES
   Linked list
+
+
+
+  Scope: global, block, function
+  Dom: 
+  Es6:

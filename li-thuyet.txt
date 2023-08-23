@@ -80,3 +80,7 @@
   Scope: global, block, function
   Dom: 
   Es6:
+  callback, callback hell, promise obj xu li bat dong bo
+  Promise(res, rej) tra ve data trong res
+  then catch
+  

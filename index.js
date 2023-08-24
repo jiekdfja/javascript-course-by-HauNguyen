@@ -1,6 +1,8 @@
-try {
-  // Sử dụng biến message chưa được định nghĩa
-  console.log(message);
-} catch (e) {
-  console.log(e.message);
+setTimeout(() => {
+  console.log("Tada!!!");
+});
+let count = 1;
+for (let i = 0; i < 1e9; i++) {
+  count++;
 }
+console.log("done");

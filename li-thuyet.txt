@@ -76,6 +76,23 @@
   Linked list
 
 
+14. ES6
+  Strict mode
+  Scope
+  Hoisting
+  Iife
+  Closure
+  Function: high order function, rest param
+  This: tuỳ thuộc vào nơi gọi để xác định nó: function, strict mode, obj ...
+
+16. Async
+  sigle thread vs multi 
+  api: Cách để giao tiếp, kết nối client và server
+  setTimeout - clearTimeout
+  
+
+
+
 
   Scope: global, block, function
   Dom: 

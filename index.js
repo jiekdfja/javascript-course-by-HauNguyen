@@ -1,8 +1,6 @@
-setTimeout(() => {
-  console.log("Tada!!!");
-});
-let count = 1;
-for (let i = 0; i < 1e9; i++) {
-  count++;
-}
-console.log("done");
+function debounce(callback, wait) {}
+function log() {}
+const debounceLog = debounce(log, 500);
+debounceLog();
+debounceLog();
+debounceLog();

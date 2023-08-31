@@ -1,6 +1,10 @@
-function debounce(callback, wait) {}
-function log() {}
-const debounceLog = debounce(log, 500);
-debounceLog();
-debounceLog();
-debounceLog();
+class Student {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+}
+
+const kqkhai = new Student("Khai", 22);
+
+console.log(kqkhai.name);

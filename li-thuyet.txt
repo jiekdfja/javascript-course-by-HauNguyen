@@ -89,7 +89,8 @@
   sigle thread vs multi 
   api: Cách để giao tiếp, kết nối client và server
   setTimeout - clearTimeout
-  
+  debounce
+  throttle
 
 
 
@@ -102,3 +103,5 @@
   then catch
   
   try - catch
+  This
+  Closures
